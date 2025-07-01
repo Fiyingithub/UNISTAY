@@ -1,0 +1,5 @@
+.env
+logs
+.env.development
+.statusCode
+node_modules
